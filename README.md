@@ -2,7 +2,8 @@
 
 # Use Guide
 
-First off, clone the repository and then open project folder and run  `npm install`
+First , clone the repository and then open project folder and run  
+`npm install`
 
 ### See In Action
 
